@@ -12,3 +12,12 @@ Please remember, that these are `extracted from BDS 22.0.` If they do not work, 
 
 **"ConsoleAgitation"**  
 ![ConsoleAgitationShowcase](https://i.imgur.com/opfwjTU.png)
+
+<br>
+<br>
+
+#### Oh,  
+while browsing some bit I found this guy living legend.
+Basically better than anything like this.
+
+[Delphi IDE Theme Editor by RRUZ](https://github.com/RRUZ/delphi-ide-theme-editor/)
