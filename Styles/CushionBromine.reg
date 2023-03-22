@@ -1,0 +1,363 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine]
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Additional search match highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$0000CECE"
+"Background Color New"="$00BC673D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Assembler]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clTeal"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Attribute Names]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clWhite"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Attribute Values]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clWhite"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Brace Highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clSilver"
+"Background Color New"="$00FFAA7F"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Character]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00712DFF"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Code folding tree]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFFEFA"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Comment]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00B9FFB9"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Diff addition]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clNavy"
+"Background Color New"="clYellow"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Diff deletion]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clNavy"
+"Background Color New"="clRed"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Diff move]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clNavy"
+"Background Color New"="clBlue"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Disabled break]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00CCE2EE"
+"Background Color New"="$005A5A5A"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Enabled break]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clBlack"
+"Background Color New"="$00FD7373"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Error line]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clWhite"
+"Background Color New"="clRed"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Execution point]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clBlack"
+"Background Color New"="$00508AB1"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Float]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00712DFF"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Folded code]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFFEFA"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Hex]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00712DFF"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Hot Link]
+"Bold"="False"
+"Italic"="False"
+"Underline"="True"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clAqua"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Identifier]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clCream"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Illegal Char]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFCD66"
+"Background Color New"="clMaroon"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Invalid break]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00CCE2EE"
+"Background Color New"="$005A5A5A"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Line Highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00B4FFFF"
+"Background Color New"="$004C381A"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Line Number]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clFuchsia"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Marked block]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFFEFA"
+"Background Color New"="$00FFAA7F"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Modified line]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clLime"
+"Background Color New"="clOlive"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Number]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00712DFF"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Octal]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00712DFF"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Plain text]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clCream"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Preprocessor]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFCD66"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Reserved word]
+"Bold"="True"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$0046AAFF"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Right margin]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clSilver"
+"Background Color New"="$001C1509"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Scripts]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clRed"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Search match]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clBlack"
+"Background Color New"="$00FFAA7F"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\String]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clAqua"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Symbol]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clCream"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Sync edit background]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="True"
+"Default Background"="False"
+"Foreground Color New"="clBlack"
+"Background Color New"="$00FFAA7F"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Sync edit highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clBlue"
+"Background Color New"="clWhite"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Tags]
+"Bold"="True"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00BCE0FF"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\CushionBromine\Whitespace]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clWhite"
+"Background Color New"="$00322F2D"
