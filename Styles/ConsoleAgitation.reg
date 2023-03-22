@@ -1,0 +1,364 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation]
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Additional search match highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$0000CECE"
+"Background Color New"="$00BC673D"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Assembler]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clTeal"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Attribute Names]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clWhite"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Attribute Values]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clWhite"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Brace Highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clSilver"
+"Background Color New"="$00FFAA7F"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Character]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00712DFF"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Code folding tree]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFFEFA"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Comment]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clLime"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Diff addition]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clNavy"
+"Background Color New"="clYellow"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Diff deletion]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clNavy"
+"Background Color New"="clRed"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Diff move]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clNavy"
+"Background Color New"="clBlue"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Disabled break]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00CCE2EE"
+"Background Color New"="$005A5A5A"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Enabled break]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clBlack"
+"Background Color New"="$00FD7373"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Error line]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clWhite"
+"Background Color New"="clRed"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Execution point]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clBlack"
+"Background Color New"="$00508AB1"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Float]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00712DFF"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Folded code]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFFEFA"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Hex]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00712DFF"
+"Background Color New"="$00322F2D"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Hot Link]
+"Bold"="False"
+"Italic"="False"
+"Underline"="True"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clAqua"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Identifier]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clCream"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Illegal Char]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFCD66"
+"Background Color New"="clMaroon"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Invalid break]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00CCE2EE"
+"Background Color New"="$005A5A5A"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Line Highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clYellow"
+"Background Color New"="$00362812"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Line Number]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clFuchsia"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Marked block]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFFEFA"
+"Background Color New"="$00FFAA7F"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Modified line]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clLime"
+"Background Color New"="clOlive"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Number]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00712DFF"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Octal]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00712DFF"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Plain text]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clCream"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Preprocessor]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFCD66"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Reserved word]
+"Bold"="True"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clRed"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Right margin]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clSilver"
+"Background Color New"="$001C1509"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Scripts]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clRed"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Search match]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clBlack"
+"Background Color New"="$00FFAA7F"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\String]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clAqua"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Symbol]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clCream"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Sync edit background]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="True"
+"Default Background"="False"
+"Foreground Color New"="clBlack"
+"Background Color New"="$00FFAA7F"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Sync edit highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clBlue"
+"Background Color New"="clWhite"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Tags]
+"Bold"="True"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00BCE0FF"
+"Background Color New"="clBlack"
+
+[HKEY_CURRENT_USER\Software\Embarcadero\BDS\22.0\Editor\Highlight\Custom Themes\ConsoleAgitation\Whitespace]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clWhite"
+"Background Color New"="clBlack"
+
