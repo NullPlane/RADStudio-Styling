@@ -1,4 +1,4 @@
-# Styling for Delphi Editor.
+# Styling for Embarcadero RAD Editor.
 Random collection of my self-mixed graphical styles I use in RAD Studio's Code Editor. Is made for fast copying, as setting it manually or transferring is exhaustingly annoying.
 
 <br>
